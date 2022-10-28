@@ -1,0 +1,2 @@
+rrt_star_global_planner:tianbot_mini:tianbot_mini_description
+-DCATKIN_DEVEL_PREFIX=/home/limu/tianbot_mini_ws/devel -DCMAKE_INSTALL_PREFIX=/home/limu/tianbot_mini_ws/install -G Unix Makefiles
